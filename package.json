@@ -21,7 +21,7 @@
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.46.1",
 		"firebase-tools": "^13.29.1",
-		"prettier": "^2.8.0",
+		"prettier": "^3.4.2",
 		"prettier-plugin-svelte": "^2.10.1",
 		"sass": "^1.77.8",
 		"svelte": "^4.2.19",
